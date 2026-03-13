@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Alessandro De Stefano**
 
-<!--
-**deste04/deste04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 A developer who loves building things that live on the web.  
+🌍 Based in **Italy** 🇮🇹  
+🔥 Always learning, experimenting, and creating.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### 💻 **Languages**
+➡️ TypeScript • JavaScript • C • Visual Basic • PHP • Java
+
+### ⚛️ **Frameworks & Libraries**
+➡️ React.js • Next.js • React Native
+
+### 🗄️ **Databases**
+➡️ MySQL • PostgreSQL • Firebase
+
+### 🛠️ **Tools & Environment**
+➡️ Git • VS Code • Docker
+
+---
+
+## 🌐 Connect with Me
+
+🔗 **LinkedIn:** [alessandro-de-stefano-02361036a](https://www.linkedin.com/in/alessandro-de-stefano-02361036a/)  
+📸 **Instagram:** [@deste_x04](https://www.instagram.com/deste_x04/)
+
+---
+
+## ✨ About Me
+
+- 🧠 Curious by nature  
+- 🎯 Focused on clean code & good architecture  
+- 🎨 I enjoy UI/UX aesthetics  
+- 🚀 Currently exploring **full-stack development**
+
+---
