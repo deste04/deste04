@@ -37,3 +37,7 @@
 - 🚀 Currently exploring **full-stack development**
 
 ---
+
+## 📊 GitHub Stats
+
+![Your Name - GitHub Stats](https://github-readme-stats.vercel.app/api?username=deste04&rank_icon=github&theme=dracula)
