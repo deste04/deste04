@@ -30,7 +30,3 @@ Portfolio: [portfolio-deste04](https://github.com/deste04/portfolio-deste04)
 LinkedIn: [alessandro-de-stefano-02361036a](https://www.linkedin.com/in/alessandro-de-stefano-02361036a/)
 
 Instagram: [@deste_x04](https://www.instagram.com/deste_x04/)
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=deste04&label=Profile+views&color=grey&style=flat" alt="Profile Views" />
-</p>
